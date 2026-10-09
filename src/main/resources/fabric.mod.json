@@ -3,9 +3,14 @@
   "id": "advancedchatbox-lang-en",
   "version": "${version}",
   "name": "AdvancedChatBox Language: English",
+  "icon": "assets/advancedchatbox-lang-en/icon.png",
   "description": "English (en_us) spell-check dictionary for AdvancedChatBox. Add-on that plugs into AdvancedChatBox's spell-check engine via the advancedchatbox:spellcheck entrypoint.",
-  "authors": [ "flyingfinger1" ],
-  "contributors": [ "DarkKronicle" ],
+  "authors": [
+    "flyingfinger1"
+  ],
+  "contributors": [
+    "DarkKronicle"
+  ],
   "contact": {
     "sources": "https://github.com/flyingfinger1/AdvancedChatBoxLangEN"
   },
